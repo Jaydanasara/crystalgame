@@ -1,0 +1,93 @@
+
+h1{
+    color:red;
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+    text-align: center
+    
+}
+
+
+
+body{
+    background-image:url("../images/chest.jpg");
+
+    
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    margin:3px;
+    
+  
+}
+
+img{
+width: 200px;
+height:200px;
+
+}
+
+#youwin{
+    text-align: center;
+    color: red;
+}
+
+#youlose{
+    text-align: center;
+    color: red;
+}
+
+p{
+    color:white;
+}
+
+#randnum{
+color: red;
+font-size: 28px;
+}
+
+.crystals{
+    margin-left: 60%;
+    margin-top: 5%;
+}
+
+#total{
+    position: absolute;top: 300px;
+
+    color: green;
+    font-size: 23px; 
+    margin-top: 0%;
+}
+#wins{
+    color: green;
+    font-size: 23px; 
+}
+#youwin{
+    position: absolute;top: 500px;
+    color: green;
+    font-size: 45px; 
+}
+
+#losses{
+    position: absolute;top: 400px;
+    color: red;
+    font-size: 23px; 
+    
+}
+
+#youlose{
+    position: absolute;top: 500px;
+    color: red;
+    font-size: 45px; 
+}
+
+#instructions{
+    width: 400px;
+    height:200px;
+position: absolute;top:150px;
+margin-left: 20%;
+font-size: 20px;
+} 
+
