@@ -48,9 +48,14 @@ color: red;
 font-size: 28px;
 }
 
+.crystals :hover{
+
+}
 .crystals{
     margin-left: 60%;
     margin-top: 5%;
+
+    
 }
 
 #total{
